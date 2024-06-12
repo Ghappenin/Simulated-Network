@@ -14,7 +14,7 @@ By the end of this project, you will create a small simulated network from scrat
 
 <h2>Downloads<h2>
  
-- <b>[Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)</b>
+- <b>[Cisco Packet Tracer](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US&utm_source=netacad.com&utm_medium=referral&utm_campaign=packet-tracer&userlogin=0)</b>
 
 <h2>Project walk-through:</h2>
 
