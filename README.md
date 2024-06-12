@@ -1,7 +1,7 @@
-<h1>Wireshark- Network Security Analysis </h1>
+<h1>Simulated Network With Cisco Packet Trackers </h1>
 
 <h2>Description</h2>
-Project consists of downloading current operating system version of Wireshark. Learn to execute packet capture on an wireless port and save it to file. Use a display filter to detect HTTPS packets. Visit a web page and detect its IP address using a display filter. End with locating all HTTPS packets from a capture not containing a certain IP address:
+By the end of this project, you will create a small simulated network from scratch using Cisco Packet Tracer. You will be able to identify the basic fundamentals of computer networking and the very basic architecture behind the network devices (Routers and Switches). Moreover, you will learn and practice how to get all these devices and components connected together.  Finally, you will be able to troubleshoot the issues and write some basic commands to get the network fully functioning :
 
 
 
