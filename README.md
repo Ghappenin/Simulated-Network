@@ -10,7 +10,7 @@ Project consists of downloading current operating system version of Wireshark. L
 
 <h2>Operating System Used<h2>
 
-- <b>MacOS Monterey Version 12.7.4</b>
+- <b>WIndows 11 Home 13th Gen Intel(R) Core(TM) i7-1360P 2.20 GHz</b>
 
 <h2>Downloads<h2>
  
