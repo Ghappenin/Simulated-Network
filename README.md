@@ -14,7 +14,7 @@ Project consists of downloading current operating system version of Wireshark. L
 
 <h2>Downloads<h2>
  
-- <b>[Wireshark 4.2.4 Intel](https://www.wireshark.org/)</b>
+- <b>[Wireshark 4.2.5](https://www.wireshark.org/)</b>
 
 <h2>Project walk-through:</h2>
 
