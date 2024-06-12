@@ -19,8 +19,8 @@ By the end of this project, you will create a small simulated network from scrat
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Download Wireshark: <br/>
-<img src="https://i.imgur.com/FVWrYiX.png" height="80%" width="80%" />
+Download Cisco Packet Tracer: <br/>
+<img src="https://i.imgur.com/s7znrun.png" height="80%" width="80%" />
 <br />
 <br />
 Select source of capture: Wireless, Ethernet etc: <br/>
