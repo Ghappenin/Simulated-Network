@@ -57,7 +57,32 @@ Connect your 'Switch' with your 'PC' -> wait for connection to show green on bot
 <br />
 <br />
 <img src="https://i.imgur.com/dGqoLsc.png" height="80%" width="80%" />
+<br />
+<br />
+Right click on 'PC 1" -> "Desktop" and click on "IP Configuration" <br/>
+<img src="https://i.imgur.com/L2hc4Lk.png" height="80%" width="80%" />
+<br />
+<br />
+Add IP address of your choosing, click in "Subnet Mask" and this will auto generate for you -> repeat for 'PC 2' with different IP address <br/>
+<img src="https://i.imgur.com/0iJmvgg.png" height="80%" width="80%" />
+<br />
+<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+<br />
+<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+<br />
+<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+<br />
+<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+<br />
+<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+<br />
+<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+<br />
+<br />
 
-●A Conditional statement may be used to include and eliminate packets from a Wireshark capture: !(ip.addr == 8.43.85.97) and tcp.port == 443
-
-●A compound conditional should include parentheses to avoid order of execution errors: !(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)
