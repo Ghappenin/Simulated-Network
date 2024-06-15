@@ -66,13 +66,16 @@ Right click on 'PC 1" -> "Desktop" and click on "IP Configuration" <br/>
 Add IP address of your choosing, click in "Subnet Mask" and this will auto generate for you -> repeat for 'PC 2' with different IP address <br/>
 <img src="https://i.imgur.com/0iJmvgg.png" height="80%" width="80%" />
 <br />
-<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
-<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+Check PCs can talk to eachother: right click 'PC 1' -> Desktop -> Command Prompt -> Ping 'PC 2' IP address  <br/>
+<img src="https://i.imgur.com/5MsfAYZ.png" height="80%" width="80%" />
 <br />
-<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<br />
+Expand the network by adding another switch, 2 PCs (give IP address and Subnet Mask) and connecting them <br/>
+<img src="https://i.imgur.com/zI875VT.png" height="80%" width="80%" />
+<br />
+<br />
+Lets connect to the internet.. Build a seperate network -> connect to 1 router -> router 2 to your network. Red flags = Routers need config. <br/>
 <img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
 <br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
