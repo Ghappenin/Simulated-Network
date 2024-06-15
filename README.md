@@ -59,7 +59,7 @@ Connect your 'Switch' with your 'PC' -> wait for connection to show green on bot
 <img src="https://i.imgur.com/dGqoLsc.png" height="80%" width="80%" />
 <br />
 <br />
-Right click on 'PC 1" -> "Desktop" and click on "IP Configuration" <br/>
+Click on 'PC 1" -> "Desktop" and select "IP Configuration" <br/>
 <img src="https://i.imgur.com/L2hc4Lk.png" height="80%" width="80%" />
 <br />
 <br />
@@ -67,7 +67,7 @@ Add IP address of your choosing, click in "Subnet Mask" and this will auto gener
 <img src="https://i.imgur.com/0iJmvgg.png" height="80%" width="80%" />
 <br />
 <br />
-Check PCs can talk to eachother: right click 'PC 1' -> Desktop -> Command Prompt -> Ping 'PC 2' IP address  <br/>
+Check PCs can talk to eachother, click 'PC 1' -> Desktop -> Command Prompt -> Ping 'PC 2' IP address  <br/>
 <img src="https://i.imgur.com/5MsfAYZ.png" height="80%" width="80%" />
 <br />
 <br />
@@ -76,15 +76,34 @@ Expand the network by adding another switch, 2 PCs (give IP address and Subnet M
 <br />
 <br />
 Lets connect to the internet.. Build a seperate network -> connect to 1 router -> router 2 to your network. Red flags = Routers need config. <br/>
+<img src="https://i.imgur.com/CN2h9WJ.png" height="80%" width="80%" />
+<br />
+<br />
+Click Router 1 -> CLI -> NO -> Copy prompts shown below.. once completed you will see a connection between router 1 and our network <br/>
+<img src="https://i.imgur.com/FnDAmhp.png" height="80%" width="80%" />
+<br />
+<br />
+Click Router 2 -> CLI -> NO -> Copy prompts shown below.. you will show green flags for all connections <br/>
+<img src="https://i.imgur.com/mX9HLfW.png" height="80%" width="80%" />
+<br />
+<br />
+Give each network an 'address table' and label them on your screen with the "note" tool <br/>
+<img src="https://i.imgur.com/tjUSdVa.png" height="80%" width="80%" />
+<br />
+<br />
+Click Router 1 and configure as shown <br/>
+<img src="https://i.imgur.com/UMTgWC1.png" height="80%" width="80%" />
+<br />
+<br />
+Click Router 2 and configure as shown... lastly config. ip address on both added PCs <br/>
+<img src="https://i.imgur.com/eGLSPdZ.png" height="80%" width="80%" />
+<br />
+<br />
+Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
 <img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
-<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
-<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
-<br />
-<br />Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
 <img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
 <br />
