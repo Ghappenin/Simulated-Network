@@ -23,34 +23,41 @@ Download Cisco Packet Tracer: <br/>
 <img src="https://i.imgur.com/s7znrun.png" height="80%" width="80%" />
 <br />
 <br />
-Select source of capture: Wireless, Ethernet etc: <br/>
-<img src="https://i.imgur.com/00SfRUR.png" height="80%" width="80%" />
+Launch Cisco Packet Tracer: <br/>
+<img src="https://i.imgur.com/21MoKGO.png" height="80%" width="80%" />
 <br />
 <br />
-Upper left click -green- "sharkfin" to begin your capture: <br/>
-<img src="https://i.imgur.com/lbyR5hY.png" height="80%" width="80%" />
+Lower left find "Network Devices", "Switches", "End Devices" and "Connection Types": <br/>
+<img src="https://i.imgur.com/lIIHTxq.png" height="80%" width="80%" />
+<br /> 
+<br />
+<img src="https://i.imgur.com/TxOJyzb.png" height="80%" width="80%" />
+<br /> 
+<br />
+<img src="https://i.imgur.com/ejWY5eJ.png" height="80%" width="80%" />
+<br /> 
+<br />
+<img src="https://i.imgur.com/2yvpAIy.png" height="80%" width="80%" />
 <br />
 <br />
-Stop your capture with -red- box and save to your file of choosing:  <br/>
-<img src="https://i.imgur.com/UN55BQU.png" height="80%" width="80%" />
+Go back to "Switches" click on desired switch and click/place on open screen:  <br/>
+<img src="https://i.imgur.com/eyQEAkP.png" height="80%" width="80%" />
 <br />
 <br />
-Use a display filter to detect HTTPS packets:  <br/>
- ●To display certain packets in an existing packet capture, use a display filter <br/>
- ●To display only HTTPS traffic, use a filter on TCP port 443: tcp.port == 443 <br/>
-<img src="https://i.imgur.com/W2nbWQN.png" height=80%" width="80%" />
+Navigate to "End Devices" click on 'PC' and add 2 to your network:  <br/>
+<img src="https://i.imgur.com/45zNqN0.png" height=80%" width="80%" />
 <br />
 <br />
-Use a display filter to detect DNS (Domain Name System)if websites and subsites visited:  <br/>
-<img src="https://i.imgur.com/2xEq9cr.png" height="80%" width="80%" />
-<br />
- - <b>https://wiki.wireshark.org/DisplayFilters
+"Connection Types" -> "Automatically Choose Connection Type":  <br/>
+<img src="https://i.imgur.com/9GAVVK4.png" height="80%" width="80%" />
 <br />
 <br />
-Visit a web page and detect its IP address using a display filter. A TLS handshake display filter: tls.handshake.type ==1 <br/>
-<img src="https://i.imgur.com/LoPi1bu.png" height="80%" width="80%" />
+Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
 <br />
+<img src="https://i.imgur.com/dGqoLsc.png" height="80%" width="80%" />
+
 ●A Conditional statement may be used to include and eliminate packets from a Wireshark capture: !(ip.addr == 8.43.85.97) and tcp.port == 443
 
 ●A compound conditional should include parentheses to avoid order of execution errors: !(ip.addr == 8.43.85.97) and (tcp.port == 80 or tcp.port == 443)
