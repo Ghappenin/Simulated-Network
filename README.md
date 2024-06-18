@@ -83,7 +83,7 @@ Click Router 1 -> CLI -> NO -> Copy prompts shown below.. once completed you wil
 <img src="https://i.imgur.com/FnDAmhp.png" height="80%" width="80%" />
 <br />
 <br />
-Click Router 2 -> CLI -> NO -> Copy prompts shown below.. you will show green flags for all connections <br/>
+Click Router 0 -> CLI -> NO -> Copy prompts shown below.. you will show green flags for all connections <br/>
 <img src="https://i.imgur.com/mX9HLfW.png" height="80%" width="80%" />
 <br />
 <br />
@@ -91,12 +91,28 @@ Give each network an 'address table' and label them on your screen with the "not
 <img src="https://i.imgur.com/tjUSdVa.png" height="80%" width="80%" />
 <br />
 <br />
-Click Router 1 and configure as shown <br/>
+Click Router 0 and configure as shown <br/>
 <img src="https://i.imgur.com/UMTgWC1.png" height="80%" width="80%" />
 <br />
 <br />
-Click Router 2 and configure as shown... lastly config. ip address on both added PCs <br/>
+Click Router 1 and configure as shown... lastly config. ip address on both added PCs <br/>
 <img src="https://i.imgur.com/eGLSPdZ.png" height="80%" width="80%" />
+<br />
+<br />
+Now lets get the routers to speak to eachother -> Click router 0 -> CLI -> configure as shown <br/>
+<img src="https://i.imgur.com/jwgyqx3.png" height="80%" width="80%" />
+<br />
+<br />
+Click on router 1 -> CLI -> configure as shown <br/>
+<img src="https://i.imgur.com/IjB2JTR.png" height="80%" width="80%" />
+<br />
+<br />
+Now we must configure the "Default Gateway" of each PC on each netowrk to match the interface of that network -> complete on all PCs <br/>
+<img src="https://i.imgur.com/JuLP4jM.png" height="80%" width="80%" />
+<br />
+<br />
+Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
+<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
 <br />
 <br />
 Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
