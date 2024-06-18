@@ -99,7 +99,7 @@ Click Router 1 and configure as shown... lastly config. ip address on both added
 <img src="https://i.imgur.com/eGLSPdZ.png" height="80%" width="80%" />
 <br />
 <br />
-Now lets get the routers to speak to eachother -> Click router 0 -> CLI -> configure as shown <br/>
+Now lets get the routers to speak to eachother and connect the 2 networks -> Click router 0 -> CLI -> configure as shown <br/>
 <img src="https://i.imgur.com/jwgyqx3.png" height="80%" width="80%" />
 <br />
 <br />
@@ -111,16 +111,11 @@ Now we must configure the "Default Gateway" of each PC on each netowrk to match 
 <img src="https://i.imgur.com/JuLP4jM.png" height="80%" width="80%" />
 <br />
 <br />
-Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
+Test the network to network connection -> click any PC -> Desktop -> Command Prompt and 'Ping' another PC in the other network  <br/>
+<img src="https://i.imgur.com/m4vcE3w.png" height="80%" width="80%" />
+<br />
+   -Succesfull connection between 2 networks!
 <br />
 <br />
-Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
-<br />
-<br />
-Connect your 'Switch' with your 'PC' -> wait for connection to show green on both <br/>
-<img src="https://i.imgur.com/53Wl8p4.png" height="80%" width="80%" />
-<br />
-<br />
+
 
