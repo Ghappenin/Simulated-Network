@@ -1,4 +1,4 @@
-<h1>Simulated Network With Cisco Packet Trackers </h1>
+<h1>Simulated Network With Cisco Packet Tracker </h1>
 
 <h2>Description</h2>
 By the end of this project, you will create a small simulated network from scratch using Cisco Packet Tracer. You will be able to identify the basic fundamentals of computer networking and the very basic architecture behind the network devices (Routers and Switches). Moreover, you will learn and practice how to get all these devices and components connected together.  Finally, you will be able to troubleshoot the issues and write some basic commands to get the network fully functioning.
